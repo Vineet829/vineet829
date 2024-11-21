@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vineet829&show_icons=true&theme=default)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineet829&layout=compact&theme=default)  
 
 ---

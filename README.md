@@ -15,16 +15,16 @@
 ### 🛠️ Technical Skills  
 
 #### 🌟 **Languages:**  
-- JavaScript, TypeScript, HTML, CSS  
+- Python, JavaScript, TypeScript, HTML, CSS  
 
 #### 📚 **Libraries:**  
-- React, Redux Toolkit, React Native, Material UI, Tailwind CSS, GraphQL  
+- React, Redux Toolkit, React Native, Material UI, GraphQL 
 
 #### 🚀 **Frameworks:**  
-- Next.js, Node.js, Express.js, Bootstrap, Jest, Playwright, Cypress  
+- Django, Next.js, Node.js, Express.js, Tailwind CSS 
 
 #### 🔧 **Development Tools:**  
-- Git, Figma, Storybook, Webpack, Vite.js, Postman, Docker  
+- Git, Docker, NGINX, Figma, Webpack, Postman
 
 #### 🗄️ **Databases:**  
 - PostgreSQL, MongoDB, Redis, Firebase  

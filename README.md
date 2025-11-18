@@ -24,7 +24,7 @@ Story.prototype.journeyGenerator = function* () {
     
     yield `Completed a Master's in Computer Applications.`;
     
-    yield `Became an Associate Software Engineer, building automation that cut work from 4+ hours to under 5 minutes
+    yield `Became a Software Engineer, building automation that cut work from 4+ hours to under 5 minutes
            and sole-developing a dashboard prototype that secured client approval.`;
     
     yield `Continuing to develop as a full-stack developer.`;

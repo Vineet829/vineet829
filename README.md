@@ -18,6 +18,7 @@ Story.prototype = Object.create(Life.prototype);
 Story.prototype.constructor = Story;
 
 Story.prototype.journeyGenerator = function* () {
+
     yield `Stumbled upon the Odin Project, unlocking my passion for software engineering.`;
     
     yield `Secured an internship, applying my knowledge in real-world scenarios.`;

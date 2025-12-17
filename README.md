@@ -25,10 +25,7 @@ Story.prototype.journeyGenerator = function* () {
     
     yield `Completed a Master's in Computer Applications.`;
     
-    yield `Became a Software Engineer, building automation that cut work from 4+ hours to under 5 minutes
-           and sole-developing a dashboard prototype that secured client approval.`;
-    
-    yield `Continuing to develop as a full-stack developer.`;
+    yield `Became a Software Engineer building high-quality and impactful products.`;
 };
 
 Story.prototype.tellJourney = function() {
@@ -62,9 +59,9 @@ myStory.tellJourney();
 
 ### 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/vineet289)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/vineet-singh-854102392)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome)](https://vineetsingh-jet.vercel.app/)  
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:vineetsingh5987@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:vineetsinghdev7@gmail.com)  
 
 ---
 

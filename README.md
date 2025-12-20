@@ -21,8 +21,6 @@ Story.prototype.journeyGenerator = function* () {
 
     yield `Stumbled upon the Odin Project, unlocking my passion for software engineering.`;
     
-    yield `Secured an internship, applying my knowledge in real-world scenarios.`;
-    
     yield `Completed a Master's in Computer Applications.`;
     
     yield `Became a Software Engineer building high-quality and impactful products.`;
